@@ -1,0 +1,17 @@
+body {
+  background-color: #1f4d2b;
+  color: #f5efe0;
+  font-family: Georgia, serif;
+  line-height: 1.6;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: #ffd166;
+}
